@@ -1,0 +1,10 @@
+
+LR Inicial: 0.5
+LR Final (após 100 épocas com decaimento exponencial): 0.025651603937149048
+Quantidade de neurônios na camada oculta: 12
+Quantidade de neurônios na camada de saída: 7
+Quantidade de parâmetros de entrada: 15
+Número de épocas: 100
+Quantidade de amostras de treino (per realização): 588
+Quantidade de amostras de teste (per realização): 441
+Função de ativação escolhida no perceptron: tangente hiperbólica
